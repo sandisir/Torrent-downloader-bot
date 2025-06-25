@@ -1,0 +1,37 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Pyrogram session
+*.session
+*.session-journal
+
+# Environment files
+.env
+
+# Logs
+*.log
+
+# Downloads
+downloads/
+*.torrent
+
+# Virtual environment
+venv/
+.env/
+.venv/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Git
+.git
+.gitignore
+.dockerignore
+
+# IDE/editor folders
+.vscode/
+.idea/
