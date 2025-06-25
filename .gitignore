@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Environment Variables
+.env
+
+# Downloads
+downloads/
+*.torrent
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Pyrogram session
+*.session
+*.session-journal
+
+# Virtual Environments
+venv/
+.env/
+.venv/
+
+# Byte-compiled / optimized / DLL files
+*.so
+*.dll
+*.dylib
+
+# Flask specific
+instance/
+.webassets-cache
+
+# Docker
+*.pid
