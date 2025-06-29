@@ -1,8 +1,0 @@
-pyrogram
-tgcrypto
-python-dotenv
-flask
-requests
-tqdm
-aria2p
-regex
